@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+        android:title="HOME"
+        android:icon="@drawable/home"/>
+    <item android:id="@+id/categories"
+        android:title="SCHEDULE"
+        android:icon="@drawable/calender"/>
+
+    <item android:id="@+id/clients"
+        android:title="CLIENTS"
+        android:icon="@drawable/user"/>
+
+</menu>
